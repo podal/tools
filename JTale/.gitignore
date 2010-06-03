@@ -1,4 +1,4 @@
-JTale.class
-.classpath
-.project
-.settings/
+/*.class
+/.classpath
+/.project
+/.settings
